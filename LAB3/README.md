@@ -19,10 +19,10 @@ QuanLyKhachSan/
 
 Trong đó:
 
-- **`Database/`**: Chứa file `QuanLyKhachSan.sql` liên quan đến cơ sở dữ liệu.
-- **`App.config`**: Chứa thông tin cấu hình kết nối giữa chương trình và cơ sở dữ liệu.
-- **`Program.cs`**: Chứa mã nguồn chính và các Form chức năng của hệ thống.
-- **`QuanLyKhachSan.csproj`**: File cấu hình và quản lý Project C#.
+ **`Database/`**: Chứa file `QuanLyKhachSan.sql` liên quan đến cơ sở dữ liệu.
+ **`App.config`**: Chứa thông tin cấu hình kết nối giữa chương trình và cơ sở dữ liệu.
+ **`Program.cs`**: Chứa mã nguồn chính và các Form chức năng của hệ thống.
+ **`QuanLyKhachSan.csproj`**: File cấu hình và quản lý Project C#.
 
 ---
 
@@ -32,17 +32,17 @@ Hệ thống sử dụng **Microsoft SQL Server** làm hệ quản trị cơ s�
 
 Cơ sở dữ liệu **`QuanLyKhachSan`** được sử dụng để lưu trữ và quản lý các thông tin của hệ thống quản lý khách sạn, bao gồm:
 
-- Thông tin khách hàng
-- Thông tin nhân viên
-- Thông tin khu vực
-- Thông tin phòng
-- Thông tin tiện nghi
-- Thông tin đặt phòng
-- Thông tin người lưu trú
-- Thông tin dịch vụ
-- Thông tin sử dụng dịch vụ
-- Thông tin hóa đơn và thanh toán
-- Thông tin đền bù
+Thông tin khách hàng
+Thông tin nhân viên
+Thông tin khu vực
+Thông tin phòng
+Thông tin tiện nghi
+Thông tin đặt phòng
+Thông tin người lưu trú
+Thông tin dịch vụ
+Thông tin sử dụng dịch vụ
+Thông tin hóa đơn và thanh toán
+Thông tin đền bù
 
 File **`QuanLyKhachSan.sql`** chứa các câu lệnh tạo và thiết lập cơ sở dữ liệu.
 
